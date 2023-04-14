@@ -23,12 +23,6 @@
       "text": "Learn coding",
       "day": "March 17th at 7:30pm",
       "reminder": false
-    },
-    {
-      "text": "Take Test",
-      "day": "Friday",
-      "reminder": true,
-      "id": 5
     }
   ]
 }
